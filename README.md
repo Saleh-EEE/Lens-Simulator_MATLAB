@@ -68,6 +68,16 @@ When lenses are in contact (d = 0), an effective focal length is applied:
 1/f_eff = 1/f₁ + 1/f₂
 
 ---
+## GUI Preview
+
+**Single Lens Mode**
+![Single Lens Mode](docs/screenshots/GUI_single_lens_ray_diagram.png)
+![Single Lens Mode](docs/screenshots/GUI_single_lens_performance_plot.png)
+
+**Two Lens Mode**
+![Two Lens Mode](docs/screenshots/GUI_two_lenses_ray_diagram.png)
+![Two Lens Mode](docs/screenshots/GUI_two_lenses_performance_plot.png)
+
 
 ## Test Cases
 
