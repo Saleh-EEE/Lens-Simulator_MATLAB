@@ -1,6 +1,6 @@
 # Optical Lens System Simulator (MATLAB GUI)
 
-An interactive MATLAB GUI for simulating and analyzing single-lens and two-lens optical systems. Developed as a course project for EEE 212 — Numerical Technique Laboratory at Bangladesh University of Engineering & Technology (BUET).
+An interactive MATLAB GUI for simulating and analyzing single-lens and two-lens optical systems, developed as a course project for EEE 212 — Numerical Technique Laboratory at Bangladesh University of Engineering & Technology (BUET).
 
 ---
 
