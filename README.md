@@ -43,6 +43,7 @@ Press **RUN** inside the app after setting your parameters.
 ---
 
 ## Project Structure
+```
 matlab-lens-simulator/
 ├── LensSimulatorApp.mlapp   % Main GUI (MATLAB App Designer)
 ├── lensCalcSafe.m           % Core computation engine
@@ -52,6 +53,7 @@ matlab-lens-simulator/
 ├── plotPerformance.m        % Magnification vs. object distance plot
 ├── tern.m                   % Ternary conditional utility
 └── README.md
+```
 
 ## How It Works
 
