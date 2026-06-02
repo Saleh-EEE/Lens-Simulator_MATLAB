@@ -32,7 +32,7 @@ This simulator computes image distances, magnifications, image nature (real/virt
 
 ```matlab
 % Clone the repository
-git clone https://github.com/YOUR_USERNAME/matlab-lens-simulator
+git clone https://github.com/Saleh-EEE/Lens-Simulator_MATLAB
 
 % Open MATLAB, navigate to the project folder, then run:
 open('LensSimulatorApp.mlapp')
