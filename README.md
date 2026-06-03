@@ -71,8 +71,8 @@ When lenses are in contact (d = 0), an effective focal length is applied:
 ## GUI Preview
 
 **Single Lens Mode**
-![Single Lens Mode](docs/screenshots/GUI_single_lens_ray_diagram.png)
-![Single Lens Mode](docs/screenshots/GUI_single_lens_performance_plot.png)
+![Single Lens Mode](Assets/GUI_single_lens_ray_diagram.png)
+![Single Lens Mode](Assets/GUI_single_lens_performance_plot.png)
 
 **Two Lens Mode**
 ![Two Lens Mode](docs/screenshots/GUI_two_lenses_ray_diagram.png)
