@@ -44,7 +44,7 @@ Press **RUN** inside the app after setting your parameters.
 
 ## Project Structure
 ```
-matlab-lens-simulator/
+Lens-Simulator_MATLAB/
 ├── LensSimulatorApp.mlapp   % Main GUI (MATLAB App Designer)
 ├── lensCalcSafe.m           % Core computation engine
 ├── drawRayDiagram.m         % Principal ray diagram renderer
